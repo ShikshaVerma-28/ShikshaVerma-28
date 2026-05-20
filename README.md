@@ -32,13 +32,3 @@ React utility app
 ### Portfolio
 Personal portfolio website  
 🔗 https://portfolio-mu-roan-30.vercel.app/
-
----
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Shiksha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShikshaVerma-28&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShikshaVerma-28&layout=compact&hide_border=true)
